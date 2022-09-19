@@ -17,7 +17,7 @@ body {
     background-repeat: no-repeat;
 }
 
-.relogio {
+section {
     display: flex;
     align-items: center;
     justify-content: space-around;
