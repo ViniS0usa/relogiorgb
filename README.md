@@ -2,6 +2,7 @@
 >Projeto de um relógio digital rgb
 
 ![preview](./.github/preview.png)
+
 [Clique aqui para acessar](https://vinis0usa.github.io/relogiorgb/)
 
 # Tecnologias
