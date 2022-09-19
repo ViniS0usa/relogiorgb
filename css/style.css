@@ -18,7 +18,6 @@ body {
 }
 
 .relogio {
-    padding: 10px 10px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -51,10 +50,14 @@ p {
 .tempo {
     font-size: 15px
 }
+
 @media only screen and (max-width: 600px){ /* enquanto for 600px adicionar esses elementos, tela celular */
-    .relogio {
+    section {
         width: 90%;
         height: auto;
+        padding: 10px 10px;
+        margin-left: 20px;
+        margin-right: 20px;
 }
     .relogio div {
         width: 70%;
